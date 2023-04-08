@@ -10,3 +10,10 @@ Usage:
 
 Requires:
   1) Python installed on both Windows or Linux.
+
+Information:
+1) Display the OS Version.
+2) Display the Private IP Address, Public IP Address, and the Default Gateway.
+3) Display the hard disk size; free and used space.
+4) Display the top five (5) directories based on the largest size.
+5) Display the CPU usage; refresh every 10 seconds.
