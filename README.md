@@ -1,5 +1,5 @@
 # os_info-Python
-Automation to display the operating system information (Windows or Linux).
+Automation to display the Operating System information (Windows or Linux).
 
 Requires:
   1) Python installed on both Windows or Linux.
